@@ -2,7 +2,7 @@
 import type { Dispatch, SetStateAction } from "react";
 import type { iplayer } from "../../Types/Player";
 import PlayerCard from "./PlayerCard";
-import SelectedPlayers from "./SelectedPlayers";
+
 
 interface IAvailableProps{
     players : iplayer[];
