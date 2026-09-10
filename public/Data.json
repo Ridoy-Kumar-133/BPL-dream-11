@@ -1,0 +1,75 @@
+[
+  {
+    "playname": "Virat Kohli",
+    "playerImg": "https://c.ndtvimg.com/2021-03/d6t08vs8_soumya-sarkar-bangladesh-t20i-afp_625x300_30_March_21.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "origin": "India",
+    "playerType": "Batsman",
+    "bowlingStyle": "Right-arm medium",
+    "battingStyle": "Right-handed",
+    "price": 700
+  },
+  {
+    "playname": "Babar Azam",
+    "playerImg": "https://c.ndtvimg.com/2021-03/d6t08vs8_soumya-sarkar-bangladesh-t20i-afp_625x300_30_March_21.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "origin": "Pakistan",
+    "playerType": "Batsman",
+    "bowlingStyle": "Right-arm off break",
+    "battingStyle": "Right-handed",
+    "price": 600
+  },
+  {
+    "playname": "Shakib Al Hasan",
+    "playerImg": "https://c.ndtvimg.com/2021-03/d6t08vs8_soumya-sarkar-bangladesh-t20i-afp_625x300_30_March_21.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "origin": "Bangladesh",
+    "playerType": "All-rounder",
+    "bowlingStyle": "Slow left-arm orthodox",
+    "battingStyle": "Left-handed",
+    "price": 500
+  },
+  {
+    "playname": "Jasprit Bumrah",
+    "playerImg": "https://c.ndtvimg.com/2021-03/d6t08vs8_soumya-sarkar-bangladesh-t20i-afp_625x300_30_March_21.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "origin": "India",
+    "playerType": "Bowler",
+    "bowlingStyle": "Right-arm fast",
+    "battingStyle": "Right-handed",
+    "price": 600
+  },
+  {
+    "playname": "Rashid Khan",
+    "playerImg": "https://c.ndtvimg.com/2021-03/d6t08vs8_soumya-sarkar-bangladesh-t20i-afp_625x300_30_March_21.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "origin": "Afghanistan",
+    "playerType": "Bowler",
+    "bowlingStyle": "Right-arm leg break",
+    "battingStyle": "Right-handed",
+    "price": 500
+  },
+  {
+    "playname": "Joe Root",
+    "playerImg": "https://c.ndtvimg.com/2021-03/d6t08vs8_soumya-sarkar-bangladesh-t20i-afp_625x300_30_March_21.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "origin": "England",
+    "playerType": "Batsman",
+    "bowlingStyle": "Right-arm off break",
+    "battingStyle": "Right-handed",
+    "price": 700
+  },
+  {
+    "playname": "Glenn Maxwell",
+    "playerImg": "https://c.ndtvimg.com/2021-03/d6t08vs8_soumya-sarkar-bangladesh-t20i-afp_625x300_30_March_21.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "origin": "Australia",
+    "playerType": "All-rounder",
+    "bowlingStyle": "Right-arm off break",
+    "battingStyle": "Right-handed",
+    "price": 600
+  },
+  {
+    "playname": "Trent Boult",
+    "playerImg": "https://c.ndtvimg.com/2021-03/d6t08vs8_soumya-sarkar-bangladesh-t20i-afp_625x300_30_March_21.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "origin": "New Zealand",
+    "playerType": "Bowler",
+    "bowlingStyle": "Left-arm fast-medium",
+    "battingStyle": "Left-handed",
+    "price": 500
+  }
+]
+
