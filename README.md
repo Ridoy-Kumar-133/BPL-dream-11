@@ -7,7 +7,7 @@ A simple, responsive React & TypeScript web application designed for browsing an
 Cricket Player Selection App | A clean React + TypeScript web app built with Tailwind CSS & DaisyUI to browse and select cricket players. 🚀 Live: https://your-project.vercel.app | Tech Stack: React, TypeScript, Tailwind CSS, DaisyUI
 
 🔗 Quick Links
-Live Site: https://famous-kashata-8b8fae.netlify.app/
+Live Site: [https://famous-kashata-8b8fae.netlify.app/](https://famous-kashata-8b8fae.netlify.app/)
 Repository: https://github.com/Ridoy-Kumar-133/BPL-dream-11.git
 
 📖 Project Overview
